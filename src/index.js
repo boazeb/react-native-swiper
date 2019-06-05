@@ -3,7 +3,7 @@
  * @author leecade<leecade@163.com>
  */
 import React, { Component } from 'react'
-import ViewPager from 'react-native-community/viewpager'
+import ViewPager from '@react-native-community/viewpager'
 
 import PropTypes from 'prop-types'
 import {
